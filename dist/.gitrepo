@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/schema-pixi-renderer
 	branch = dist
-	commit = 95928cf7f70f76e635495679ab859135ef313e4b
-	parent = 94d3d12df76a186720d63671cb91d751e6aea1d1
+	commit = 206b3c49a388cdfab6c9022585ba25f5f49d0cbb
+	parent = 74ceb3b7fd9e9fd4c9fee700825b2e56817a7c01
 	method = merge
 	cmdver = 0.4.9
