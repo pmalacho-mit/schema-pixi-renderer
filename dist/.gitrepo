@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pmalacho-mit/schema-pixi-renderer
+	branch = dist
+	commit = 95928cf7f70f76e635495679ab859135ef313e4b
+	parent = 94d3d12df76a186720d63671cb91d751e6aea1d1
+	method = merge
+	cmdver = 0.4.9
